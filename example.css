@@ -1,0 +1,38 @@
+/* css for example html */
+
+/* 
+
+*{
+}
+
+*/
+body{
+    background: lightblue;
+    /* background-image: url(pascal.jpg); */
+    background-repeat: repeat-y;
+}
+
+/* #title{
+
+} */
+
+/* .title{
+
+} */
+
+h1{
+    color: #342828;
+    /* background-color: blueviolet; */
+    /* border-style: solid;
+    border-color: aqua;
+    border-width: 1cap;
+    border-radius: 4rem;
+    border-bottom-style: dotted; */
+    /* border: 2px solid; */
+    /* border-radius: 1rem; */
+    /* background: #342828; */
+    /* color: white; */
+    /* margin-left: 50px; */
+    /* font-size: 4px; */
+    font-weight: lighter;
+}
